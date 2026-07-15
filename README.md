@@ -1,8 +1,7 @@
 # AI-Learning-Journey
 My journey of learning Artificial Intelligence and Machine Learning with Python.
-# AI Learning Journey
 
-Hi! I'm Rehan.
+# AI Learning Journey
 
 Welcome to my AI Learning Journey repository.
 
